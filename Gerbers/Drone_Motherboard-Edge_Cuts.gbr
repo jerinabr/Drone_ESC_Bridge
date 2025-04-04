@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-08-21T00:11:03-04:00*%
+%TF.ProjectId,Drone_Motherboard,44726f6e-655f-44d6-9f74-686572626f61,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-08-21 00:11:03*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X113200000Y-103900000D02*
+X165200000Y-103900000D01*
+X165200000Y-136900000D01*
+X113200000Y-136900000D01*
+X113200000Y-103900000D01*
+M02*
