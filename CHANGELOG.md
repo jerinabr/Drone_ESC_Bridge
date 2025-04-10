@@ -27,6 +27,11 @@ This is the revision history for the drone ESC bridge
 - Move SPI connector closer to Jetson power connector
 - Update SPI connector silkscreen labels to reflect pin reordering
 
+### Misc
+
+- Add this changelog file
+- Add image of MCU connection diagram to the folder
+
 ## v1.0
 
 Initial release
