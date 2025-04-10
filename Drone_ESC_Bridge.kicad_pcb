@@ -6383,7 +6383,7 @@
 			(justify bottom mirror)
 		)
 	)
-	(gr_text "Drone Motherboard V1.1"
+	(gr_text "Drone Motherboard v1.1"
 		(at 113.5 122.2 0)
 		(layer "B.SilkS")
 		(uuid "373d2e61-1880-4fb8-9a87-0c37a0913580")
