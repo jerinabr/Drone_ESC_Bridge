@@ -25,6 +25,7 @@ This is the revision history for the drone ESC bridge
 - Updated SPI connector silkscreen labels to reflect pin reordering
 - Removed ground pour on top layer
   - Used polygon pours with stitching vias on ground pads instead
+- Updated silkscreen pin info table for ESC_Debug to replace `TLM` with `VBAT`
 ### Misc
 - Added this changelog file
 - Added image of MCU connection diagram to the folder
