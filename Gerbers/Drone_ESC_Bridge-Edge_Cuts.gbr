@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-05-03T14:05:23-04:00*%
+%TF.ProjectId,Drone_ESC_Bridge,44726f6e-655f-4455-9343-5f4272696467,v1.1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-05-03 14:05:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X112230000Y-103218000D02*
+X164230000Y-103218000D01*
+X164230000Y-136218000D01*
+X112230000Y-136218000D01*
+X112230000Y-103218000D01*
+M02*
