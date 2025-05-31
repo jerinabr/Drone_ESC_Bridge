@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.4"
+      "Version": "9.0.0"
     },
-    "CreationDate": "2024-08-21T00:11:03-04:00"
+    "CreationDate": "2025-05-03T14:05:23-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Drone_Motherboard",
-      "GUID": "44726f6e-655f-44d6-9f74-686572626f61",
-      "Revision": "rev?"
+      "Name": "Drone_ESC_Bridge",
+      "GUID": "44726f6e-655f-4455-9343-5f4272696467",
+      "Revision": "v1.1"
     },
     "Size": {
       "X": 52.05,
@@ -34,37 +34,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Drone_Motherboard-F_Cu.gbr",
+      "Path": "Drone_ESC_Bridge-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Drone_Motherboard-B_Cu.gbr",
+      "Path": "Drone_ESC_Bridge-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Drone_Motherboard-F_Silkscreen.gbr",
+      "Path": "Drone_ESC_Bridge-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Drone_Motherboard-B_Silkscreen.gbr",
+      "Path": "Drone_ESC_Bridge-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Drone_Motherboard-F_Mask.gbr",
+      "Path": "Drone_ESC_Bridge-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Drone_Motherboard-B_Mask.gbr",
+      "Path": "Drone_ESC_Bridge-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Drone_Motherboard-Edge_Cuts.gbr",
+      "Path": "Drone_ESC_Bridge-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
@@ -104,10 +104,6 @@
       "Type": "SolderMask",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
-    },
-    {
-      "Type": "SolderPaste",
-      "Name": "Bottom Solder Paste"
     },
     {
       "Type": "Legend",

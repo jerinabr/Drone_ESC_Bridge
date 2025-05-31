@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
-%TF.CreationDate,2024-08-21T00:11:00-04:00*%
-%TF.ProjectId,Drone_Motherboard,44726f6e-655f-44d6-9f74-686572626f61,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-05-03T14:05:28-04:00*%
+%TF.ProjectId,Drone_ESC_Bridge,44726f6e-655f-4455-9343-5f4272696467,v1.1*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.4) date 2024-08-21 00:11:00*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-05-03 14:05:28*
 %MOMM*%
 %LPD*%
 G01*
@@ -17,7 +17,7 @@ G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D10*
 %TO.C,H2*%
-X116700000Y-126900000D03*
+X115730000Y-126218000D03*
 %TO.C,H1*%
-X161700000Y-113900000D03*
+X160730000Y-113218000D03*
 M02*
