@@ -6204,6 +6204,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "311-8.2KGRTR-ND"
+			(at 193.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "448b2a54-d309-4585-a06f-3ef582a05889")
 		)
@@ -6727,6 +6736,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 193.04 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "311-33.0KHRTR-ND"
 			(at 193.04 97.79 0)
 			(effects
 				(font

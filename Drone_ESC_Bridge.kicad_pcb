@@ -2214,6 +2214,19 @@
 				)
 			)
 		)
+		(property "Part Number" "311-33.0KHRTR-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09d7d1e6-a43e-401a-ae17-02cf159ba542")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c9895dd3-e27d-4957-bd27-5a643ee83f3b")
 		(sheetname "/")
@@ -5769,6 +5782,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "311-8.2KGRTR-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1de7efed-700f-4c66-a08e-8b0d1ed88d93")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
